@@ -1,4 +1,6 @@
 # ViennaAppartmentAnalysis results visualized in Power BI
+The following shows the results of a real estate recommender system on sample data.
+This is a private project for educational purposes only.
 
 ## Overview
 ![alt text](https://github.com/csam1850/ViennaAppartmentAnalysis_Result/blob/main/1.PNG?raw=true)

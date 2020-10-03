@@ -10,7 +10,9 @@
 ![alt text](https://github.com/csam1850/ViennaAppartmentAnalysis_Result/blob/main/3.PNG?raw=true)
 
 ## Visualizing feature importances
+### higher aggregation level
 ![alt text](https://github.com/csam1850/ViennaAppartmentAnalysis_Result/blob/main/4a.PNG?raw=true)
+### lower aggregation level
 ![alt text](https://github.com/csam1850/ViennaAppartmentAnalysis_Result/blob/main/4b.PNG?raw=true)
 
 ## Visualizing the time trend

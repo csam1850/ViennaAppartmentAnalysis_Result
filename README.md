@@ -24,5 +24,5 @@ Some minor errors can be observed, as I haven't maintained the tool in a while.
 ## geographical analysis
 ![alt text](https://github.com/csam1850/ViennaAppartmentAnalysis_Result/blob/main/6.PNG?raw=true)
 
-# detailed options for filtering
+## detailed options for filtering
 ![alt text](https://github.com/csam1850/ViennaAppartmentAnalysis_Result/blob/main/7.PNG?raw=true)
